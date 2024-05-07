@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Silla",
+      "description": "Silla de madera",
+      "price": 12345,
+      "thumbnail": "../img1.jpg",
+      "code": "prod1",
+      "stock": 6
+    },
+    {
+      "id": 2,
+      "title": "Mesa",
+      "description": "Mesa de madera",
+      "price": 67890,
+      "thumbnail": "../img2.jpg",
+      "code": "prod2",
+      "stock": 3
+    },
+    {
+      "id": 3,
+      "title": "Sillon",
+      "description": "Sofa esquinero",
+      "price": 45632,
+      "thumbnail": "../img3.jpg",
+      "code": "prod3",
+      "stock": 2
+    },
+    {
+      "id": 4,
+      "title": "Silla Metal",
+      "description": "Silla de metal",
+      "price": 65486,
+      "thumbnail": "../img4.jpg",
+      "code": "prod4",
+      "stock": 16
+    },
+    {
+      "id": 5,
+      "title": "Mesa circular",
+      "description": "Mesa redonda",
+      "price": 84899,
+      "thumbnail": "../img5.jpg",
+      "code": "prod5",
+      "stock": 4
+    },
+    {
+      "id": 6,
+      "title": "Futon",
+      "description": "Futon dos plazas",
+      "price": 44548,
+      "thumbnail": "../img6.jpg",
+      "code": "prod6",
+      "stock": 5
+    },
+    {
+      "id": 7,
+      "title": "Mesa de luz",
+      "description": "Mesa de luz flotante",
+      "price": 12545,
+      "thumbnail": "../img7.jpg",
+      "code": "prod7",
+      "stock": 8
+    },
+    {
+      "id": 8,
+      "title": "Cama niño",
+      "description": "Cama niño una plaza",
+      "price": 68484,
+      "thumbnail": "../img8.jpg",
+      "code": "prod8",
+      "stock": 3
+    },
+    {
+      "id": 9,
+      "title": "Alacena",
+      "description": "Alacena esquinera",
+      "price": 14849,
+      "thumbnail": "../img9.jpg",
+      "code": "prod9",
+      "stock": 5
+    },
+    {
+      "id": 10,
+      "title": "Cuna bebe",
+      "description": "Cuna madera blanca",
+      "price": 48485,
+      "thumbnail": "../img10.jpg",
+      "code": "prod10",
+      "stock": 9
+    }
+  ]
